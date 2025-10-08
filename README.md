@@ -51,7 +51,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 - [**Portfolio**]()
 - [**Contact**](mailto:vivekbabul.babul3@gmail.com)
 
-<a href="https://www.linkedin.com/in//" target="blank">
+<a href="https://www.linkedin.com/in/vivek-babul-50589a117" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com//" target="blank">
