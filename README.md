@@ -1,10 +1,13 @@
 # Hi there, I'm Vivek Babul 👋
 
+![Image](https://github.com/vivekbabul/vivekbabul/blob/main/vbabul.jpeg?raw=true)
+
 ### Senior Software Engineer | Automation & Testing Expert
 
 I'm a Senior Software Engineer at Zscaler with a decade of experience specializing in the development of robust automation frameworks and software testing. I am passionate about building scalable solutions and continuously improving testing processes.
 
 ---
+
 
 ### 🚀 What I'm Up To
 
