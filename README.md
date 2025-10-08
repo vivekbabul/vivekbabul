@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 &nbsp;Hi there
+
+I'm a sr software engineer at zscaler. I enjoy coding open-source projects that solve unique problems. 
+&nbsp;
+
+## 👇 &nbsp;Current project
 
 <!--
 **vivekbabul/vivekbabul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
