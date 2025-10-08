@@ -1,10 +1,3 @@
-# 👋 &nbsp;Hi there
-
-I'm a sr software engineer at zscaler. I enjoy coding open-source projects that solve unique problems. 
-&nbsp;
-
-## 👇 &nbsp;Current project
-
 # Hi there, I'm Vivek Babul 👋
 
 ### Senior Software Engineer | Automation & Testing Expert
@@ -18,7 +11,7 @@ I'm a Senior Software Engineer at Zscaler with a decade of experience specializi
 - 🏢 I’m currently working as a Senior Software Engineer at **Zscaler**.
 - 🌱 I’m diving deep into **Playwright** with **TypeScript** for modern end-to-end testing.
 - 💬 Feel free to ask me about **Test Automation Strategy, Python, Java, or Selenium**.
-- 📫 How to reach me: **vivekbabul.babul3@gmail.com**
+- 📫 How to reach me: <a href="vivekbabul.babul3@gmail.com"a/>**vivekbabul.babul3@gmail.com**
 
 ---
 
