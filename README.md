@@ -70,7 +70,7 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 ## Links
 <!-- Section layout inspired by Awesome GitHub Profile README "Descriptive" patterns:
      https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive- -->
-- [**Portfolio**]()
+- [**Portfolio**](https://vivekbabul.github.io/vivekbabul/)
 - [**Contact**](mailto:vivekbabul.babul3@gmail.com)
 
 <a href="https://www.linkedin.com/in/vivek-babul-50589a117" target="blank">
