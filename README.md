@@ -73,10 +73,9 @@ Here are some of the languages, frameworks, and tools I'm proficient in:
 - [**Portfolio**](https://vivekbabul.github.io/vivekbabul/)
 - [**Contact**](mailto:vivekbabul.babul3@gmail.com)
 
-<a href="https://www.linkedin.com/in/vivek-babul-50589a117" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/vivek-babul-50589a117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/profile/vivekbabul_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackrrank" height="90" width="40"/>
+<a href="https://www.hackerrank.com/profile/vivekbabul_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackrrank" height="30" width="40"/>
 </a>
 
 <!-- Optional: fun GIF. Consider replacing with contribution streak or removing for a tighter, more professional finish. -->
